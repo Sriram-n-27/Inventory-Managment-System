@@ -6,4 +6,4 @@ while only the admin can manage the warehouse stock and product details.
 
 Use Xampp and set up database in PhpMyadmin.
 
-### Store all the files in invproject/public_html/
+#### Store all the files in a folder invproject/public_html/
